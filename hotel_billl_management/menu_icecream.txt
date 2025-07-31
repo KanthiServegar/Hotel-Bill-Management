@@ -1,0 +1,11 @@
+SwissChocolate 65.00
+SpecialStrawberry 70.00
+GudBudIceCream 100.00
+ArabianDelight 150.00
+ItalianIce 160.00
+MangoSherbet 150.00
+Butterccotch 65.00
+ChocoCrunch 90.00
+TuttiFrutti 70.00
+Sorbet 80.00
+

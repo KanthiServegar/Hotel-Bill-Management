@@ -1,0 +1,10 @@
+MuttonBiryani 250.00
+FishFry 100.00
+Butterchicken 300.00
+Tandoorichicken 650.00
+Roganjosh 150.00
+MachherJhol 350.00
+MuttonMarag 300.00
+Muttonkorma 200.00
+ChickenChilli 150.00
+ChickenCurry 120.00

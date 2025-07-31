@@ -1,0 +1,10 @@
+VegCurry 50.00
+VegBiryani 90.00
+DalKhichdi 30.00
+Alooparata 55.00
+MasalaDosa 65.00
+Ravaplain 45.00
+Vadapav 35.00
+IdliSambar 50.00
+VegPulao 30.00
+CauliflowerCurry 70.00
